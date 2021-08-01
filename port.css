@@ -282,7 +282,7 @@ h2{
 	width: max-content;
 	background-color: #fff;
 	border-radius: 30px;
-	margin-left: 29px;
+	margin-left: 8.5rem;
 	margin-bottom: 30px;
 	display: flex;
 	flex-wrap: wrap;
@@ -300,6 +300,7 @@ h2{
 	height: max-content;
 	width: max-content;
 	border-radius: 30px;
+	margin-left: 22rem;
 	background-image: linear-gradient( 135deg, #FDD819 10%, #E80505 100%);
 
 }
