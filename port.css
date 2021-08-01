@@ -95,7 +95,7 @@ h2{
 		.container .card{
 			position: relative;
 			width: 250px;
-			background: linear-gradient(0deg, #fdfafa, #dbc9c9, #fdfafa);
+			background: linear-gradient(0deg, #fdfafa, #ffffff, #fdfafa);
 			display: flex;
 			justify-content: center;
 			align-items: center;
